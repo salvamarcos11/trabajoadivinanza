@@ -1,0 +1,29 @@
+body{
+  background-color: powderblue;
+}
+h1 {
+  Background-color:gray;
+  color:white;
+  Width:800px;
+Border: -1px solid gray;
+Border-style: solid;
+border-radius: 30px ;
+padding: 10px ;
+text-align:center;
+}
+div h2{
+  background-color: gray;
+  Width: 800px;
+  border-style: solid;
+  text-align: center;
+}
+.centro {
+  width: 28% ;
+  margin-left: 30% ;
+  margin-right: 1%;
+  display: block;
+}
+
+h3{
+  color : blue;
+}
